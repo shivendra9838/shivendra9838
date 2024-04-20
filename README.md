@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shivendra9838
-- 👀 I’m interested in web developer
+- 👀 I’m interested in web developing
 - 🌱 I’m currently learning python,HTML,CSS,Javascript,DSA,C,C++,JAVA
 
 - 💞️ I’m looking to collaborate on ...
